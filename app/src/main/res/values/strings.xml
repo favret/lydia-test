@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lydia Users</string>
+    <string name="prev"><![CDATA[<]]></string>
+    <string name="next"><![CDATA[>]]></string>
+    <string name="contact">Contact</string>
+    <string name="address">Adresse</string>
+    <string name="birth_at">Né(e) le :</string>
+    <string name="nationality">Nationnalité : </string>
+    <string name="no_internet_error">Il semblerait que vous n\'ayiez pas Internet</string>
+</resources>
